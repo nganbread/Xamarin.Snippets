@@ -1,0 +1,6 @@
+c:\users\scottn\documents\visual studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.ObservableCollectionUITableView\bin\iPhone\Debug\XamarinSnippetsObservableCollectionUITableView.exe
+c:\users\scottn\documents\visual studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.ObservableCollectionUITableView\bin\iPhone\Debug\XamarinSnippetsObservableCollectionUITableView.pdb
+c:\users\scottn\documents\visual studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.ObservableCollectionUITableView\obj\iPhone\Debug\
+c:\users\scottn\documents\visual studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.ObservableCollectionUITableView\obj\iPhone\Debug\Xamarin.Snippets.ObservableCollectionUITableView.csprojResolveAssemblyReference.cache
+c:\users\scottn\documents\visual studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.ObservableCollectionUITableView\obj\iPhone\Debug\XamarinSnippetsObservableCollectionUITableView.exe
+c:\users\scottn\documents\visual studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.ObservableCollectionUITableView\obj\iPhone\Debug\XamarinSnippetsObservableCollectionUITableView.pdb

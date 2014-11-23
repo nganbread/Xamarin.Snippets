@@ -1,0 +1,4 @@
+c:\users\scottn\documents\visual studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.Common\bin\iPhone\Debug\XamarinSnippetsCommon.dll
+c:\users\scottn\documents\visual studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.Common\bin\iPhone\Debug\XamarinSnippetsCommon.pdb
+c:\users\scottn\documents\visual studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.Common\obj\Debug\XamarinSnippetsCommon.dll
+c:\users\scottn\documents\visual studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.Common\obj\Debug\XamarinSnippetsCommon.pdb
