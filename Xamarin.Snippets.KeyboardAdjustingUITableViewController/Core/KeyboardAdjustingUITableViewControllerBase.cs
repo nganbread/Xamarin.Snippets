@@ -16,6 +16,7 @@ namespace Xamarin.Snippets.KeyboardAdjustingUITableViewController.Core
 
         private void Listen(NSNotification notification)
         {
+			//http://derpturkey.com/maintain-uitableview-scroll-position-with-keyboard-expansion/
             var userInfo = notification.UserInfo;
 
             var beginFrame = userInfo[UIKeyboard.FrameBeginUserInfoKey].AsRectangleF();
