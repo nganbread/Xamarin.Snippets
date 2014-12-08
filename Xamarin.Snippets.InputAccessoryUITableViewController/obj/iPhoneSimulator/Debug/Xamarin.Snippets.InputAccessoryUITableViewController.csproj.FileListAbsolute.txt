@@ -1,5 +1,5 @@
-c:\users\scottn\documents\visual studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.InputAccessoryUITableViewController\bin\iPhoneSimulator\Debug\XamarinSnippetsInputAccessoryUITableViewController.exe
-c:\users\scottn\documents\visual studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.InputAccessoryUITableViewController\bin\iPhoneSimulator\Debug\XamarinSnippetsInputAccessoryUITableViewController.pdb
-c:\users\scottn\documents\visual studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.InputAccessoryUITableViewController\obj\iPhoneSimulator\Debug\Default-568h@2x.png
-c:\users\scottn\documents\visual studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.InputAccessoryUITableViewController\obj\iPhoneSimulator\Debug\XamarinSnippetsInputAccessoryUITableViewController.exe
-c:\users\scottn\documents\visual studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.InputAccessoryUITableViewController\obj\iPhoneSimulator\Debug\XamarinSnippetsInputAccessoryUITableViewController.pdb
+C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets\Xamarin.Snippets.InputAccessoryUITableViewController\bin\iPhoneSimulator\Debug\XamarinSnippetsInputAccessoryUITableViewController.exe
+C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets\Xamarin.Snippets.InputAccessoryUITableViewController\bin\iPhoneSimulator\Debug\XamarinSnippetsInputAccessoryUITableViewController.pdb
+C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets\Xamarin.Snippets.InputAccessoryUITableViewController\obj\iPhoneSimulator\Debug\Default-568h@2x.png
+C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets\Xamarin.Snippets.InputAccessoryUITableViewController\obj\iPhoneSimulator\Debug\XamarinSnippetsInputAccessoryUITableViewController.exe
+C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets\Xamarin.Snippets.InputAccessoryUITableViewController\obj\iPhoneSimulator\Debug\XamarinSnippetsInputAccessoryUITableViewController.pdb

@@ -18,3 +18,10 @@ A `UITableViewController` with a `UITextField` `InputAccessory`. The keyboard is
 
 ![Alt text](https://raw.githubusercontent.com/nganbread/Xamarin.Snippets/master/ScreenShots/InputAccessoryUITableViewController1.gif)
 ![Alt text](https://raw.githubusercontent.com/nganbread/Xamarin.Snippets/master/ScreenShots/InputAccessoryUITableViewController2.gif)
+
+KeyboardAdjustingUITableViewController
+================
+
+A `UITableViewController` which automatically scrolls the the `TableView` up and down when the keyboard appears and disappears
+
+![Alt text](https://raw.githubusercontent.com/nganbread/Xamarin.Snippets/master/ScreenShots/KeyboardAdjustingUITableViewController.gif)

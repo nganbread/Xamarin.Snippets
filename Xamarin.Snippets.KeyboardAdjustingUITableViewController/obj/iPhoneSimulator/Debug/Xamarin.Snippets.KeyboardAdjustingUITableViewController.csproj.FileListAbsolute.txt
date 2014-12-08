@@ -1,8 +1,8 @@
-C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.KeyboardAdjustingUITableViewController\bin\iPhoneSimulator\Debug\XamarinSnippetsKeyboardAdjustingUITableViewController.exe
-C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.KeyboardAdjustingUITableViewController\bin\iPhoneSimulator\Debug\XamarinSnippetsKeyboardAdjustingUITableViewController.pdb
-C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.KeyboardAdjustingUITableViewController\bin\iPhoneSimulator\Debug\XamarinSnippetsCommon.dll
-C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.KeyboardAdjustingUITableViewController\bin\iPhoneSimulator\Debug\XamarinSnippetsCommon.pdb
-C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.KeyboardAdjustingUITableViewController\bin\iPhoneSimulator\Debug\XamarinSnippetsCommon.dll.mdb
-C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.KeyboardAdjustingUITableViewController\obj\iPhoneSimulator\Debug\Default-568h@2x.png
-C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.KeyboardAdjustingUITableViewController\obj\iPhoneSimulator\Debug\XamarinSnippetsKeyboardAdjustingUITableViewController.exe
-C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets.KeyboardAdjustingUITableViewController\obj\iPhoneSimulator\Debug\XamarinSnippetsKeyboardAdjustingUITableViewController.pdb
+C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets\Xamarin.Snippets.KeyboardAdjustingUITableViewController\bin\iPhoneSimulator\Debug\XamarinSnippetsKeyboardAdjustingUITableViewController.exe
+C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets\Xamarin.Snippets.KeyboardAdjustingUITableViewController\bin\iPhoneSimulator\Debug\XamarinSnippetsKeyboardAdjustingUITableViewController.pdb
+C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets\Xamarin.Snippets.KeyboardAdjustingUITableViewController\bin\iPhoneSimulator\Debug\XamarinSnippetsCommon.dll
+C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets\Xamarin.Snippets.KeyboardAdjustingUITableViewController\bin\iPhoneSimulator\Debug\XamarinSnippetsCommon.pdb
+C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets\Xamarin.Snippets.KeyboardAdjustingUITableViewController\bin\iPhoneSimulator\Debug\XamarinSnippetsCommon.dll.mdb
+C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets\Xamarin.Snippets.KeyboardAdjustingUITableViewController\obj\iPhoneSimulator\Debug\Default-568h@2x.png
+C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets\Xamarin.Snippets.KeyboardAdjustingUITableViewController\obj\iPhoneSimulator\Debug\XamarinSnippetsKeyboardAdjustingUITableViewController.exe
+C:\Users\scottn\Documents\Visual Studio 2013\Projects\Xamarin.Snippets\Xamarin.Snippets\Xamarin.Snippets.KeyboardAdjustingUITableViewController\obj\iPhoneSimulator\Debug\XamarinSnippetsKeyboardAdjustingUITableViewController.pdb

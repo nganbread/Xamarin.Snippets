@@ -41,7 +41,7 @@ namespace Xamarin.Snippets.KeyboardAdjustingUITableViewController.Core
                 else if (newContentOffset < 0)
                 {
                     //Dont push the content too far down
-                    newContentOffset = -InputAccessoryView.SafeGet(x => x.Height());
+                    newContentOffset = 0;
                 }
                 TableView.ContentOffset = new PointF(0, newContentOffset);
             }, () => { });
